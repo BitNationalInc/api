@@ -5,8 +5,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - json
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
+  - <a href='#'>Copyright 2018 BitNational</a>
 
 includes: # api - group - category - call
   - background/api_bkg_background
@@ -88,9 +87,6 @@ includes: # api - group - category - call
   - uncertain/api_uncert_user_getearliestticktime
   - uncertain/api_uncert_user_ping
 
-
-
-
 search: true
 ---
 
@@ -112,7 +108,7 @@ Generally, upper- and lowercase is not important for the key-value pairs inside 
 - **GetOrdersHistory:** Reduction in number of fields in the response.
 - **GetProduct:** TickSize changed from a long to a real.
 - **GetProducts:** TickSize changed from a long to a real.
-- **GetTickerHistory:** Permission revised to *Public.*
+- **GetTickerHistory:** Permission revised to _Public._
 - **SendOrder:** Reduction in number of fields in the request.
 - **SubscribeLevel2:** Added the ability to subscribe by specifying a product symbol.
 - **UpdateQuote:** The number of fields in the response has been reduced.
