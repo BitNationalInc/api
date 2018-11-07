@@ -5,7 +5,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - json
 
 toc_footers:
-  - <a href='#'>Copyright 2018 BitNational</a>
+  - <span>Copyright 2018 BitNational</span>
 
 includes: # api - group - category - call
   - background/api_bkg_background
