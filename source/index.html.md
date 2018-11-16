@@ -92,9 +92,9 @@ search: true
 
 # Introduction
 
-This API covers **version 3.2** of the AlphaPoint Exchange software. It includes calls in the "User" category, as well as a few others required for log-in and authentication.
+This API covers **version 3.2** of the BitNational Exchange software. It includes calls in the "User" category, as well as a few others required for log-in and authentication.
 
-The calls have been organized roughly to correspond to similar functions you would find in the AlphaPoint Admin. For example, in the Admin you manage users in the Users function. So calls that manage users have been gathered in the Users section of the API.
+The calls have been organized roughly to correspond to similar functions you would find in the BitNational Admin. For example, in the Admin you manage users in the Users function. So calls that manage users have been gathered in the Users section of the API.
 
 ###Changed calls in this revision:
 Generally, upper- and lowercase is not important for the key-value pairs inside a request or response. If an otherwise well formed call returns an unexpected error, check the case of the key-value pairs in the request.
